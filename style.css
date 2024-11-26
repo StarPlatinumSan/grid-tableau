@@ -176,7 +176,6 @@ small {
   .menu {
     display: grid;
     grid-template-columns: 1fr 1.5fr 1fr;
-    grid-template-rows: 15rem auto;
     max-width: 100vw;
   }
 
