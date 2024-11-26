@@ -162,7 +162,7 @@ small {
   color: rgb(0, 218, 145);
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 1100px) {
   .menu {
     display: grid;
     grid-template-columns: 1fr 1.5fr 1fr;
